@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Html,css,tailwind,...**
 
-- 🌱 I’m currently learning **javascript,and frameworks such as the Riact**
+- 🌱 I’m currently learning **javascript,and frameworks such as the React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nastaran-dev](https://github.com/Nastaran-dev)
 
